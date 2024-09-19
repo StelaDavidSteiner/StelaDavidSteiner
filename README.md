@@ -15,14 +15,13 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=eu+amo+o+Andriel+Muito+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Olá, sou a Stela!!!+" alt="Typing SVG" /></a>
 
 ###
 
-- 🔭 Em constante aprimoramento pessoal e profissional.
-- 💻 Atualmente explorando conhecimentos em diversas tecnologias.
-- 🎓 Estudante do 4º período no Unisenai PR, com foco em inovação e desenvolvimento tecnológico.
-- ✈️ Sempre aberto a novas oportunidades e desafios no mercado de tecnologia.
+- 🌱 Comprometida com o crescimento pessoal e profissional.
+- 🎓 No momento, estou no 4º período de Engenharia de Software na Unisenai PR, aprimorando meus conhecimentos na área.
+- 🌟 Sempre disposta a explorar novas oportunidades e enfrentar desafios no campo da tecnologia.
 
 
 ###
