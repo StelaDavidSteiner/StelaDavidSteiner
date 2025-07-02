@@ -24,7 +24,7 @@
 
 ###
 
-- 🎓 No momento, estou no 5º período de Engenharia de Software na Unisenai PR, aprimorando meus conhecimentos na área.
+- 🎓 No momento, estou no 6º período de Engenharia de Software na Unisenai PR, aprimorando meus conhecimentos na área.
 - 🌱 Comprometida com o crescimento pessoal e profissional.
 - 🌟 Sempre disposta a explorar novas oportunidades e enfrentar desafios no campo da tecnologia.
 
